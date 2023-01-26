@@ -1,0 +1,29 @@
+
+*{
+    padding:0;
+
+    margin:0;
+
+    box-sizing:border-box;
+
+    fonts-family:'Poppins',sans-serif
+}
+header{
+    height:700px;
+    width:100%;
+    background-image:url(./img1.png);
+    background-size:cover;
+    background-position:center;
+
+}
+
+nav{
+   top: 0px;
+    position:fixed;
+    width:100%;
+    display:flex;
+    align-items:center; 
+    background-color:#d9d9d9;
+    height:100px;
+}
+
